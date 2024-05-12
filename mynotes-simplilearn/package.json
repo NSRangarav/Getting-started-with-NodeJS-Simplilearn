@@ -1,0 +1,19 @@
+{
+  "name": "ranga-init",
+  "version": "1.0.0",
+  "description": "this is my node project tutorials notes taken from getting started with nodejs by simplilearn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSRangarav/Getting-started-with-NodeJS-Simplilearn.git"
+  },
+  "author": "Rangaramanujam NS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSRangarav/Getting-started-with-NodeJS-Simplilearn/issues"
+  },
+  "homepage": "https://github.com/NSRangarav/Getting-started-with-NodeJS-Simplilearn#readme"
+}
