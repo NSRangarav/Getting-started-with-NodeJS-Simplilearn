@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NSRangarav/Getting-started-with-NodeJS-Simplilearn/issues"
   },
-  "homepage": "https://github.com/NSRangarav/Getting-started-with-NodeJS-Simplilearn#readme"
+  "homepage": "https://github.com/NSRangarav/Getting-started-with-NodeJS-Simplilearn#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
